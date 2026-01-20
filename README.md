@@ -74,5 +74,5 @@ Zip Download the Repository and Extract it's contents.
 
 <p align='center'>
     <b>Made with ❤ by </b>
-    <a href="https://github.com/sakshgupta">@sakshgupta</a>
+    <a>Bharathi</a>
 </p>
