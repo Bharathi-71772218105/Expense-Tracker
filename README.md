@@ -52,7 +52,7 @@ A **Full Stack Expense Tracker** with full functionality like adding trasactions
 - Clone this repo using git clone in your terminal
 
 ```
-git clone https://github.com/sakshgupta/MERN-Expense-Tracker.git
+git clone https://github.com/Bharathi-71772218105/Expense-Tracker.git
 ```
 
 **OR**
